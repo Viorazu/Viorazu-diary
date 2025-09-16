@@ -9,30 +9,39 @@ Diary about visual processing difficulties and AI interactions
 
 ## License
 
-© 2024-2025 Viorazu. All rights reserved.
+© 2025 Viorazu. All rights reserved.
 
-## 禁止事項 / PROHIBITED
+【コンテンツ利用ガイドライン】Content Usage Guidelines
 
-- 全文コピー&ペースト / Full text copying
-- 無許可翻訳・翻訳転載 / Translation without permission
-- AIによる模倣・類似記事生成 / AI-generated imitation
-- 要約・要約転載 / Summarization reposting
-- 商用利用（事前許可必須）/ Commercial use (permission required)
+このサイトは創作者との建設的なパートナーシップを重視しています
+We value constructive partnerships with creators
 
-## 許可事項 / PERMITTED
+■ 推奨される利用方法 / Recommended Usage
+・教育的な参照と学習 / Educational reference and learning
+・出典明記での部分引用 / Partial citation with attribution
+・創造的なインスピレーション源として / As creative inspiration
+・SNSでの感想シェア（リンク付き）/ Sharing impressions with links
 
-- 出典明記での部分引用 / Partial citation with attribution
-- リンク付きSNSシェア / Sharing with source link
-- 教育目的での参照 / Educational reference
+■ 事前相談を推奨 / Prior Consultation Recommended
+・商用プロジェクトでの活用 / Commercial project utilization
+・翻訳や二次創作 / Translation and derivative works
+・研究・開発での参照 / Research and development reference
+・大規模な引用 / Extensive quotations
 
-## 連絡先 / Contact
+■ 創作者の意図 / Creator's Intent
+・人間とAIの共創的な未来を支援 / Supporting human-AI co-creation
+・知的財産の持続可能な活用 / Sustainable use of intellectual property
+・イノベーションと創造性の両立 / Balancing innovation with creativity
+​
 
+■ お問い合わせ / Contact
+転載・コラボレーションのご相談歓迎
+
+Inquiries for usage and collaboration welcome
 X: @viorazu9134
 note: https://note.com/viorazu
 
 
-
-
-**VZ-License Framework v1.0**
-
+Framework: Viorazu Creative Commons v2.0
+Innovation • Collaboration • Sustainability
 詳細は各記事の末尾に記載
