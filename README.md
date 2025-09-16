@@ -9,7 +9,7 @@ Diary about visual processing difficulties and AI interactions
 
 ## License
 
-© 2025 Viorazu. All rights reserved.
+© 2025 Viorazu. All rights reserved.</BR>
 
 【コンテンツ利用ガイドライン】Content Usage Guidelines
 
