@@ -3,8 +3,8 @@
 <img width="757" height="432" alt="image" src="https://github.com/user-attachments/assets/65e041bc-11f4-44e2-bd41-a1a7f5e9a647" />
 
 
-Diary about visual processing difficulties and AI interactions
-日々のAIとのやり取りの中で気づいたことを書いていきます。
+Diary about visual processing difficulties and AI interactions</BR>
+日々のAIとのやり取りの中で気づいたことを書いていきます。</BR>
 
 
 ## License
